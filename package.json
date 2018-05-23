@@ -1,0 +1,19 @@
+{
+  "name": "liteJS",
+  "version": "1.0.0",
+  "description": "Light weight javascript framework for designing web applications",
+  "main": "litejs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vijay tanwar",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.0.6"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-uglify": "^2.3.0"
+  }
+}
